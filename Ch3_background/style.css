@@ -1,7 +1,7 @@
 body {
     background-color: lightblue;
     background-image: url(https://i.pinimg.com/236x/1f/27/c3/1f27c3b2c561e22e0cd0b2e7a7cdd2e6.jpg);
-background-repeat: no-repeat;
+background-repeat: no-repeat scroll;
 
 
 background-size: cover;

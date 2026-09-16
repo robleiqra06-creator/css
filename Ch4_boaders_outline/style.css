@@ -1,0 +1,28 @@
+.the-border{
+/* border-top-style:dashed ;
+border-top-color: red;
+border-top-width: 5px;
+
+border-right-style: double;
+border-right-color: red;
+border-right-width: 5px;
+
+border-bottom-style: dotted;
+border-bottom-color: red;
+border-bottom-width: 5px;
+
+border-left-style: solid;
+border-left-color: red;
+border-left-width: 5px; */
+
+
+border-radius: 10px;
+
+outline-style: solid;
+outline-color: blue;
+outline-width: 5px;
+outline-radius: 10px;
+outline-offset: 3px;
+
+border:solid red 5px
+}
