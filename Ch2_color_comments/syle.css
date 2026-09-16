@@ -1,0 +1,32 @@
+
+h1{
+  /* using color names*/
+    /* color: green;
+       */
+      text-align: center;
+/* rgb */
+color:rgb( 0, 125, 125);
+    
+
+      
+      /* hexdecimal */
+      color: #cccc00;
+
+
+}
+
+body {
+  background-color: rgb( 00, 00, 00);
+
+}
+
+div {
+
+  color:blueviolet;
+  height: 200px;
+width: 200px;
+background-color: rgba( 255, 00, 00 , 0.6);
+
+}
+
+
