@@ -1,0 +1,25 @@
+div{
+    
+    height: 200px;
+    width: 200px;
+    border: 10px solid rgb(125, 0, 25);
+border-radius: 10px;
+}
+
+
+.top-one{
+position:absolute;
+top: 0%;
+left: 0;
+}
+.middle-one {
+position:absolute;
+top: 180px;
+left:100px ;
+
+}
+.bottom-one {
+position:absolute;
+top: 360px;
+left: 200px;
+}

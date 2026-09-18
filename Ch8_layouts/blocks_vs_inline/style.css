@@ -1,0 +1,8 @@
+div{
+    background-color: yellow;
+display: inline-flex;
+}
+span{
+    background-color:aqua;
+    display: block;
+}

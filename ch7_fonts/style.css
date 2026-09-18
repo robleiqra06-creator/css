@@ -1,0 +1,14 @@
+h1{
+    font-family:black ops one;
+    font-size: 100px;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bold;
+
+}
+
+p{ 
+font-weight: bold;
+font-style: unset;
+font-family: italic small-caps bold 20px/30px Georgia, 'Times New Roman', Times, serif;
+}
